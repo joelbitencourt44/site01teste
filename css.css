@@ -1,0 +1,25 @@
+.square {
+  color: brown;
+  background-color: blanchedalmond;
+  max-width: fit-content;
+}
+.menu {
+  max-width: fit-content;
+  margin-left: auto;
+  display: block;
+  border-radius: 20px;
+}
+.menu02 {
+  max-width: fit-content;
+  margin-left: auto;
+}
+.imagem01 {
+  background: fixed;
+  background: local;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login {
+  background-position: center;
+}
